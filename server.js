@@ -235,4 +235,6 @@ app.get('/getprofile/:username',(req,res) =>{
     } 
 })
 
-app.listen(3000);
+var port = process.env.PORT || 3000;
+app.listen(port);
+console.log("port is An Active:",port);
