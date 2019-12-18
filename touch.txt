@@ -1,0 +1,1002 @@
+ 1056  clear
+ 1057  ls
+ 1058  cd matdex
+ 1059  ls
+ 1060  cd ..
+ 1061  ls
+ 1062  cd nexdex
+ 1063  ls
+ 1064  ng s --port=8080 --poll=2000
+ 1065  npm start
+ 1066  node patch.js
+ 1067  npm i && ng s
+ 1068  npm start
+ 1069  ng s
+ 1070  ng serve
+ 1071  ng s
+ 1072  npm start
+ 1073  clear
+ 1074  ng s
+ 1075  exit
+ 1076  cd ..
+ 1077  ls
+ 1078  cd chat
+ 1079  ls
+ 1080  cd ..
+ 1081  cd b
+ 1082  ls
+ 1083  cd ..
+ 1084  ng new AngTestPro
+ 1085  ls
+ 1086  cd AngTestPro/
+ 1087  ls
+ 1088  ng s
+ 1089  ls
+ 1090  cd ..
+ 1091  ls
+ 1092  cd AngTestPro/
+ 1093  ls
+ 1094  ng s
+ 1095  ng s --poll=2000
+ 1096  exit
+ 1097  ng add @angular/material
+ 1098  exirt
+ 1099  eixt
+ 1100  exit
+ 1101  ls
+ 1102  cd ...
+ 1103  cd ..
+ 1104  ls
+ 1105  cd maticram/
+ 1106  ls
+ 1107  cd irfan_socket/
+ 1108  ls
+ 1109  node app.js
+ 1110  code .
+ 1111  rm rf node_modules/
+ 1112  exit
+ 1113  l
+ 1114  ls
+ 1115  cd ..
+ 1116  ls
+ 1117  cd maticram/
+ 1118  ls
+ 1119  cd ..
+ 1120  ls
+ 1121  cd maticram/
+ 1122  ls
+ 1123  cd irfan_socket/
+ 1124  ls
+ 1125  node
+ 1126  ls
+ 1127  cd ..
+ 1128  ls
+ 1129  cd nexdexcontracts_arun/
+ 1130  ls
+ 1131  cd test/
+ 1132  ls
+ 1133  truffle exec testarun.ref.js --network matic
+ 1134  node
+ 1135  exit
+ 1136  cd ../..
+ 1137  ls
+ 1138  cd irfan_socket/
+ 1139  ls
+ 1140  node
+ 1141  exit
+ 1142  cd ram
+ 1143  ls
+ 1144  cd nexdex
+ 1145  ls
+ 1146  ng s --port=8080 --poll=2000
+ 1147  npm start
+ 1148  ng s --port=8080 --poll=2000
+ 1149  ng s --port=8080 --watch
+ 1150  ng serve --poll=2000
+ 1151  ng serve --poll=2000 --port=8080
+ 1152  clear
+ 1153  ng serve --poll=2000 --port=8080
+ 1154  exit
+ 1155  cd ram
+ 1156  ls
+ 1157  cd nexdex
+ 1158  ls
+ 1159  ng serve --poll=2000 --port=8080
+ 1160  exit
+ 1161  node
+ 1162  cls
+ 1163  clear
+ 1164  exit
+ 1165  cd ..
+ 1166  ls
+ 1167  mongo
+ 1168  db.collections.find() db.collections.find({})
+ 1169  mongo
+ 1170  exit
+ 1171  cd ..
+ 1172  mkdir python
+ 1173  cd python/
+ 1174  ls
+ 1175  py
+ 1176  pip install Mongothon
+ 1177  pip install virtualenv
+ 1178  sudo apt-get install virtualenv
+ 1179  mkdir new_py_pro
+ 1180  cd new_py_pro/
+ 1181  virtualenv venv
+ 1182  venv/bin/activate
+ 1183  sudo venv/bin/activate
+ 1184  ls
+ 1185  cd venv/
+ 1186  ls
+ 1187  cd bin
+ 1188  ls
+ 1189  activate
+ 1190  activate.py
+ 1191  source ./activate
+ 1192  cd ..
+ 1193  ls
+ 1194  pip install Flask
+ 1195  gedit app.py
+ 1196  ls
+ 1197  python app.py
+ 1198  less app.py
+ 1199  gedit app.py
+ 1200  pip install mongoose==0.0.1
+ 1201  pip list
+ 1202  python --version
+ 1203  python
+ 1204  pip install Mongothon
+ 1205  python
+ 1206  pip install django.db
+ 1207  from django.db import models
+ 1208  ls
+ 1209  cd venv/
+ 1210  s
+ 1211  ls
+ 1212  cd bin/
+ 1213  ls
+ 1214  .source deactivate
+ 1215  exit
+ 1216  cd ..
+ 1217  ls
+ 1218  pip install virtualenv
+ 1219  pip --version
+ 1220  pip -version
+ 1221  pip -V
+ 1222  ls
+ 1223  app.py
+ 1224  python app.py
+ 1225  exit
+ 1226  ls
+ 1227  cd ram
+ 1228  ls
+ 1229  cd nexdex
+ 1230  ls
+ 1231  ng s --port=8080 --poll=2000
+ 1232  ng s --port=8080 --poll=3000
+ 1233  cd ..
+ 1234  ls
+ 1235  cd karthianna_matdex/
+ 1236  sl
+ 1237  ls
+ 1238  rm -rf nexdex/
+ 1239  git clone https://gitlab.com/karthikramasamy/nexdex.git
+ 1240  ls
+ 1241  cd nexdex/
+ 1242  npm i
+ 1243  sudo npm i -g npm 
+ 1244  npm version
+ 1245  ls
+ 1246  ng s --port=8080 --poll=2000
+ 1247  clear
+ 1248  ng s --port=8080 --poll=2000
+ 1249  clear
+ 1250  ng s --port=8080 --poll=2000
+ 1251  clear
+ 1252  mongodb
+ 1253  mongo
+ 1254  exit
+ 1255  cd ..
+ 1256  ls
+ 1257  cd ..
+ 1258  ls
+ 1259  cd ram_git/
+ 1260  ls
+ 1261  git clone https://github.com/calmesriram/nexdex_Ui_in_AngMaterial.git
+ 1262  ls
+ 1263  cd nexdex_Ui_in_AngMaterial/
+ 1264  ls
+ 1265  git status
+ 1266  git add *
+ 1267  git commit -m "initialcommit_of_nexdex"
+ 1268  git status
+ 1269  git push
+ 1270  git status
+ 1271  ls
+ 1272  cd src
+ 1273  ls
+ 1274  cd app
+ 1275  ls
+ 1276  cd shared/
+ 1277  ls
+ 1278  cd ..
+ 1279  cd pages/
+ 1280  ls
+ 1281  ng g c noteApproval
+ 1282  ls
+ 1283  cd ..
+ 1284  eixt
+ 1285  exit
+ 1286  ls
+ 1287  cd src
+ 1288  ls
+ 1289  cd app
+ 1290  ls
+ 1291  cd pages/
+ 1292  ls
+ 1293  ng g c noteApproval
+ 1294  exit
+ 1295  cd ram
+ 1296  ls
+ 1297  cd karthianna_matdex/
+ 1298  ls
+ 1299  cd nexdex/
+ 1300  ls
+ 1301  ng s --port=8080 --poll=2000
+ 1302  exit
+ 1303  mongo
+ 1304  exigt
+ 1305  code .
+ 1306  cd ram
+ 1307  cd chbackend/
+ 1308  ls
+ 1309  cd testApi/
+ 1310  npm init -y
+ 1311  touch app.js
+ 1312  npm i express cors body-parser
+ 1313  node app.js
+ 1314  exit
+ 1315  docker --version
+ 1316  docker -version
+ 1317  docker -VB
+ 1318  docker -V
+ 1319  exit
+ 1320  sudo apt-get update
+ 1321  exit
+ 1322  cd ram
+ 1323  ls
+ 1324  cd karthianna_matdex/
+ 1325  ls
+ 1326  cd maticdex12/
+ 1327  ls
+ 1328  ng s --port=8080 --poll=2000
+ 1329  code .
+ 1330  ls
+ 1331  cd ram
+ 1332  ls
+ 1333  cd karthianna_matdex/
+ 1334  ls
+ 1335  cd maticdex12/
+ 1336  ls
+ 1337  ng s --port=8080 --poll=2000
+ 1338  code .
+ 1339  exit
+ 1340  npm uninstall -g getmac
+ 1341  exit
+ 1342  ls
+ 1343  nodemon node app,.js
+ 1344  nodemon node app.js
+ 1345  exit
+ 1346  code .
+ 1347  exit
+ 1348  cd ..
+ 1349  ls
+ 1350  cd ..
+ 1351  ls
+ 1352  cd ram
+ 1353  ls
+ 1354  cd nexdexui/
+ 1355  kls
+ 1356  ls
+ 1357  cd 
+ 1358  cd ram 
+ 1359  cd project/
+ 1360  ls
+ 1361  cd ram/
+ 1362  ls
+ 1363  cd nexdexui/
+ 1364  ls
+ 1365  cd 
+ 1366  cd ram
+ 1367  cd project/
+ 1368  cd ram/
+ 1369  ls
+ 1370  cd nexdexui/
+ 1371  ls
+ 1372  cd 
+ 1373  cd ram
+ 1374  ls
+ 1375  cd project/
+ 1376  ls
+ 1377  cd ram/
+ 1378  ls
+ 1379  cd matic/
+ 1380  ls
+ 1381  npm i
+ 1382  exit
+ 1383  code .
+ 1384  exit
+ 1385  npm install concurrently --save
+ 1386  npm install 
+ 1387  clear
+ 1388  ng s --port=8080 --poll=2000
+ 1389  ng serve
+ 1390  ng s --port=8080 --poll=2000
+ 1391  ng s --port=8080 --poll=2000 --verbose
+ 1392  ng s --port=8080 --poll=2000
+ 1393  npm start
+ 1394  ng s
+ 1395  ng
+ 1396  ng serve
+ 1397  ng s
+ 1398  npm start
+ 1399  ng s --port=8080 --poll=2000
+ 1400  exit
+ 1401  npm i
+ 1402  ls
+ 1403  ng s --port=8080 --poll=2000
+ 1404  exit
+ 1405  code .
+ 1406  exit
+ 1407  cd ram
+ 1408  ls
+ 1409  cd ch
+ 1410  cd karthianna_matdex/
+ 1411  ls
+ 1412  cd maticdex12_new_back_up/
+ 1413  ls
+ 1414  clear
+ 1415  ng s --port=8080 --poll=2000
+ 1416  clear
+ 1417  ls
+ 1418  cd ..
+ 1419  ls
+ 1420  clear
+ 1421  ls
+ 1422  cd nexdex/
+ 1423  ls
+ 1424  ng s --port=8080 --poll=2000
+ 1425  ls
+ 1426  cd ..
+ 1427  ls
+ 1428  cd maticdex12
+ 1429  ls
+ 1430  ng s --port=8080 --poll=200
+ 1431  ng s --port=8080 --poll=2000
+ 1432  cd ..
+ 1433  ls
+ 1434  cd nexdex/
+ 1435  ls
+ 1436  ng s --port=8080 --poll=2000
+ 1437  ls
+ 1438  cd ..
+ 1439  ls
+ 1440  cd maticdex12
+ 1441  ls
+ 1442  clear
+ 1443  ng s --port=8080 --poll=2000
+ 1444  cd ..
+ 1445  ls
+ 1446  cd ..
+ 1447  ls
+ 1448  exit
+ 1449  cd ..
+ 1450  ls
+ 1451  cd ..
+ 1452  ls
+ 1453  exit
+ 1454  mongod
+ 1455  mongodb
+ 1456  mongo
+ 1457  exit
+ 1458  cd ..
+ 1459  clear
+ 1460  ls
+ 1461  clear
+ 1462  g++ --version
+ 1463  clear
+ 1464  mkdir cpp
+ 1465  cd cpp
+ 1466  l
+ 1467  ls
+ 1468  clear
+ 1469  ls
+ 1470  clear
+ 1471  exit
+ 1472  cd ..
+ 1473  ls
+ 1474  cd ram
+ 1475  ls
+ 1476  clear
+ 1477  ls
+ 1478  mkdir git_nexdex_uI
+ 1479  cd git_nexdex_uI/
+ 1480  clear
+ 1481  ls
+ 1482  git clone https://calmesriram@bitbucket.org/walletsocket/nexdexui.git
+ 1483  ls
+ 1484  cd nexdexui/
+ 1485  ls
+ 1486  cd angular/
+ 1487  ls
+ 1488  npm start
+ 1489  clear
+ 1490  npm install
+ 1491  npm start
+ 1492  npm update
+ 1493  npm start
+ 1494  git pull
+ 1495  npm start
+ 1496  cd ..
+ 1497  ls
+ 1498  cd ..
+ 1499  ls
+ 1500  clear
+ 1501  mkdir arun
+ 1502  cd arun/
+ 1503  git clone https://calmesriram@bitbucket.org/walletsocket/nexdexui.git
+ 1504  git branch -a
+ 1505  ls
+ 1506  cd nexdexui/
+ 1507  ls
+ 1508  git branch -a
+ 1509  git branch staging
+ 1510  ls
+ 1511  cd angular/
+ 1512  ls
+ 1513  cd src
+ 1514  ls
+ 1515  cd app
+ 1516  ls
+ 1517  cd pages/
+ 1518  ls
+ 1519  cd ..
+ 1520  clear
+ 1521  ls
+ 1522  git checkout -b
+ 1523  git checkout -b staging
+ 1524  ls
+ 1525  cd angular/
+ 1526  ls
+ 1527  cd src
+ 1528  ls
+ 1529  cd app
+ 1530  clear
+ 1531  ls
+ 1532  cd pages/
+ 1533  ls
+ 1534  cd ..
+ 1535  clear
+ 1536  cd ..
+ 1537  ls
+ 1538  cd ..
+ 1539  clear
+ 1540  git clone https://calmesriram@bitbucket.org/walletsocket/nexdexui.git
+ 1541  clear
+ 1542  ls
+ 1543  cd nexdexui/
+ 1544  ls
+ 1545  cd angular/
+ 1546  ls
+ 1547  npm i
+ 1548  ls
+ 1549  cd node_modules/
+ 1550  ls
+ 1551  cd @angular-devkit/
+ 1552  ls
+ 1553  cd build-angular/
+ 1554  ls
+ 1555  cd plugins/
+ 1556  ls
+ 1557  cd webpack/
+ 1558  ls
+ 1559  cd ..
+ 1560  ls
+ 1561  cd ..
+ 1562  ls
+ 1563  cd ..
+ 1564  l
+ 1565  cd ..
+ 1566  clear
+ 1567  ls
+ 1568  ng s --poll=2000 --port=8080
+ 1569  ls
+ 1570  cd ..
+ 1571  ls
+ 1572  cd angular/
+ 1573  ls
+ 1574  git stattus
+ 1575  git status
+ 1576  git checkout staging
+ 1577  ls
+ 1578  cd ..
+ 1579  l
+ 1580  clear
+ 1581  ls
+ 1582  cd src
+ 1583  ls
+ 1584  cd app
+ 1585  ls
+ 1586  cd pages
+ 1587  ls
+ 1588  clear
+ 1589  cd ..
+ 1590  ls
+ 1591  npm i
+ 1592  clear
+ 1593  ng s --port=8080 --poll=2000
+ 1594  exit
+ 1595  npm start
+ 1596  exit
+ 1597  ls
+ 1598  cd ram
+ 1599  l;s
+ 1600  ls
+ 1601  clear
+ 1602  ls
+ 1603  cd chbackend/
+ 1604  ls
+ 1605  nodemon node app.js
+ 1606  node app.js --watch -reset
+ 1607  ls
+ 1608  less app.js
+ 1609  clear
+ 1610  node app.js --watch -reset
+ 1611  nodemon node app.js
+ 1612  nodemon app.js
+ 1613  node app.js
+ 1614  exit
+ 1615  touch server.cpp
+ 1616  cd ..
+ 1617  l
+ 1618  ls
+ 1619  clear
+ 1620  ls
+ 1621  cd pp
+ 1622  cd cpp
+ 1623  ls
+ 1624  gcc server.c -o server
+ 1625  g++ server.cpp -o server -lboost_system
+ 1626  exit
+ 1627  cd ..
+ 1628  ls
+ 1629  cd ..
+ 1630  ls
+ 1631  cd nexdexui/
+ 1632  ls
+ 1633  cd angular/
+ 1634  ls
+ 1635  npm start
+ 1636  ls
+ 1637  clear
+ 1638  git status
+ 1639  git add *
+ 1640  git commit -m "initial commit"
+ 1641  git status
+ 1642  git push origin staging
+ 1643  git push -u origin staging
+ 1644  ls
+ 1645  cd ..
+ 1646  ls
+ 1647  git add *
+ 1648  git status
+ 1649  git commit -m "initial commit"
+ 1650  git status
+ 1651  git push -u origin staging
+ 1652  clear
+ 1653  ls
+ 1654  cd ..
+ 1655  ls
+ 1656  clear
+ 1657  ls
+ 1658  cd arun
+ 1659  ls
+ 1660  git status
+ 1661  cd nexdexui/
+ 1662  ls
+ 1663  git status
+ 1664  git add *
+ 1665  git commit -m "initialcommit"
+ 1666  git status
+ 1667  git push -u origin staging
+ 1668  git status
+ 1669  git add *
+ 1670  clear
+ 1671  git status
+ 1672  clear
+ 1673  git status
+ 1674  git add *
+ 1675  git commit -m "initialcommit"
+ 1676  clear
+ 1677  git status
+ 1678  git push -u origin staging
+ 1679  cd ..
+ 1680  ls
+ 1681  cd .
+ 1682  cd ..
+ 1683  clear
+ 1684  ls
+ 1685  mkdir newfolder1
+ 1686  cd newfolder1/
+ 1687  git clone https://calmesriram@bitbucket.org/walletsocket/nexdexui.git
+ 1688  ls
+ 1689  cd nexdexui/
+ 1690  ls
+ 1691  git branch -a
+ 1692  git checkout staging 
+ 1693  ls
+ 1694  npm i
+ 1695  git status
+ 1696  clear
+ 1697  git status
+ 1698  git add *
+ 1699  git status
+ 1700  git add .
+ 1701  git status
+ 1702  git commit -m "update"
+ 1703  git status
+ 1704  git push origin staging 
+ 1705  npm i
+ 1706  npm start
+ 1707  exit
+ 1708  npm i ng-connection-service
+ 1709  npm uninstall ng-connection-service
+ 1710  clear
+ 1711  npm install network-status-angular
+ 1712  npm uninstall network-status-angular
+ 1713  npm i ngx-spinner --save
+ 1714  exot
+ 1715  ls
+ 1716  exit
+ 1717  cd ..
+ 1718  ls
+ 1719  cd cpp
+ 1720  ls
+ 1721  https://github.com/22Vignesh-M/SuperHeroApp.git
+ 1722  git clone https://github.com/22Vignesh-M/SuperHeroApp.git
+ 1723  ls
+ 1724  cd SuperHeroApp/
+ 1725  ls
+ 1726  cd src/
+ 1727  ls
+ 1728  sh run.sh
+ 1729  ninja
+ 1730  sudo apt install ninja-build
+ 1731  ninja
+ 1732  sh run.sh
+ 1733  exit
+ 1734  cd ..
+ 1735  cd ..c
+ 1736  cd ..
+ 1737  ls
+ 1738  cd cpp/
+ 1739  ls
+ 1740  cd SuperHeroApp/
+ 1741  ls
+ 1742  clear
+ 1743  cd src/
+ 1744  ls
+ 1745  clear
+ 1746  sh run.sjh
+ 1747  sh run.sh
+ 1748  ninja
+ 1749  exit
+ 1750  cd ..
+ 1751  ls
+ 1752  cd chbackend/
+ 1753  ls
+ 1754  mkdir git 
+ 1755  cd git
+ 1756  git clone https://github.com/calmesriram/chatappBackend.git
+ 1757  exit
+ 1758  cd ..
+ 1759  ls
+ 1760  cd ..
+ 1761  ls
+ 1762  cd ram
+ 1763  ls
+ 1764  cd chbackend/
+ 1765  ls
+ 1766  node app.js
+ 1767  ls
+ 1768  cd git/
+ 1769  ls
+ 1770  cd chatappBackend/
+ 1771  ls
+ 1772  touch .gitignore
+ 1773  clear
+ 1774  ls
+ 1775  node app.js
+ 1776  npm start
+ 1777  clear
+ 1778  node server.js
+ 1779  npm start
+ 1780  npm i nodemon --save
+ 1781  ls
+ 1782  rm node_modules/
+ 1783  rm node_modules/ -rf
+ 1784  clear
+ 1785  ls
+ 1786  sudo npm i -g nodemon
+ 1787  sudo npm i  nodemon --save
+ 1788  clear
+ 1789  npm i
+ 1790  npm i nodemon --save
+ 1791  clear
+ 1792  npm start
+ 1793  git status
+ 1794  clear
+ 1795  git add *
+ 1796  git commit -m "ChatAppBackend"
+ 1797  git push origin master
+ 1798  clear
+ 1799  ls
+ 1800  node app.js
+ 1801  git status
+ 1802  git add .
+ 1803  git commit -m "initialcommit"
+ 1804  clear
+ 1805  git push
+ 1806  clear
+ 1807  node app.js
+ 1808  clear
+ 1809  node server.js
+ 1810  exit
+ 1811  ls
+ 1812  cd ...
+ 1813  cd ..
+ 1814  cd chbackend/
+ 1815  ls
+ 1816  cd git/
+ 1817  ls
+ 1818  cd chatappBackend/
+ 1819  clear
+ 1820  ls
+ 1821  clear
+ 1822  git status
+ 1823  git add .
+ 1824  git commit -m "all"
+ 1825  clear
+ 1826  git push
+ 1827  clear
+ 1828  node
+ 1829  exit
+ 1830  history
+ 1831  clear
+ 1832  node
+ 1833  exit
+ 1834  ls
+ 1835  cd src
+ 1836  ls
+ 1837  cd app
+ 1838  ls
+ 1839  cd pages/
+ 1840  ls
+ 1841  ng g c mint
+ 1842  ng g component mint --skip-import
+ 1843  EXIT
+ 1844  exit
+ 1845  cd ..
+ 1846  ls
+ 1847  cd cpp/
+ 1848  l
+ 1849  clear
+ 1850  mkdir ramcpp
+ 1851  cd ramcpp/
+ 1852  clear
+ 1853  git clone https://github.com/yhirose/cpp-httplib.git
+ 1854  ls
+ 1855  cd cpp-httplib/
+ 1856  clear
+ 1857  touch ram.cpp
+ 1858  code .
+ 1859  g++ ram.cpp
+ 1860  ./a.out
+ 1861  cd ..
+ 1862  ls
+ 1863  cd pp
+ 1864  cd cpp
+ 1865  ls
+ 1866  cd ramcpp/
+ 1867  cler
+ 1868  clear
+ 1869  ls
+ 1870  cd cpp-httplib/
+ 1871  ls
+ 1872  clear
+ 1873  code .
+ 1874  exit
+ 1875  g++ ram.cpp
+ 1876  cd /
+ 1877  cd cpp
+ 1878  ls
+ 1879  cd cpp
+ 1880  clear
+ 1881  ls
+ 1882  exit
+ 1883  ls
+ 1884  g++ ram.cpp
+ 1885  cd ..
+ 1886  clear
+ 1887  cd ..
+ 1888  ls
+ 1889  clear
+ 1890  cd cpp
+ 1891  ls
+ 1892  cd ramcpp/
+ 1893  ls
+ 1894  clear
+ 1895  ls
+ 1896  cd cpp-httplib/
+ 1897  ls
+ 1898  clear
+ 1899  ls
+ 1900  code .
+ 1901  exit
+ 1902  cd ram
+ 1903  ls
+ 1904  cd git_nexdex_uI/
+ 1905  ls
+ 1906  cd newfolder1/
+ 1907  ls
+ 1908  cd nexdexui/
+ 1909  ls
+ 1910  npm start
+ 1911  clear
+ 1912  npm start
+ 1913  exit
+ 1914  cd cpp
+ 1915  ls
+ 1916  cd ramcpp/
+ 1917  lear
+ 1918  ls
+ 1919  clear
+ 1920  ls
+ 1921  cd cpp-httplib/
+ 1922  ls
+ 1923  python3 splity.py
+ 1924  python3 split.py
+ 1925  ls
+ 1926  ls out
+ 1927  cd example/
+ 1928  clear
+ 1929  ls
+ 1930  make hello
+ 1931  ls
+ 1932  ./helloc
+ 1933  ./hello
+ 1934  ./hello.cc
+ 1935  make hello.cc
+ 1936  run hello
+ 1937  make hello
+ 1938  code ,.
+ 1939  code .
+ 1940  clear
+ 1941  exit
+ 1942  ls
+ 1943  cd example/
+ 1944  ls
+ 1945  make hello
+ 1946  make hello.cc
+ 1947  make
+ 1948  cd ..
+ 1949  ls
+ 1950  cd example/
+ 1951  fls
+ 1952  ls
+ 1953  Make hello
+ 1954  make hello
+ 1955  ls
+ 1956  cd example/
+ 1957  make hello
+ 1958  git clone https://github.com/yhirose/cpp-httplib.git
+ 1959  cd cpp-httplib/
+ 1960  cd example/
+ 1961  ls
+ 1962  cd ..
+ 1963  python3 split.py
+ 1964  cd example/
+ 1965  make hello
+ 1966  ls
+ 1967  cd ..
+ 1968  code .
+ 1969  make hello
+ 1970  cd example/
+ 1971  make hello
+ 1972  make clean
+ 1973  make all
+ 1974  cd ..
+ 1975  ls
+ 1976  cd ram
+ 1977  ls
+ 1978  cd chbackend/
+ 1979  clear
+ 1980  cod e.
+ 1981  code .
+ 1982  exit
+ 1983  cd ~
+ 1984  ls
+ 1985  cd cpp-httplib/
+ 1986  clear
+ 1987  sudo apt-get install libcairo2-dev libjpeg-dev libgif-dev
+ 1988  sudo apt-get install libssl-dev
+ 1989  sudo apt install ninja-build
+ 1990  clear
+ 1991  ls
+ 1992  cd example/
+ 1993  make hello
+ 1994  clear
+ 1995  cd ..
+ 1996  ls
+ 1997  clear
+ 1998  python3 split.py
+ 1999  clear
+ 2000  exit
+ 2001  cd ..
+ 2002  cd chbackend/
+ 2003  code .
+ 2004  cd ..
+ 2005  ls
+ 2006  cd git_nexdex_uI/
+ 2007  ls
+ 2008  cd newfolder1/
+ 2009  ls
+ 2010  cd nexdexui/
+ 2011  ls
+ 2012  clear
+ 2013  npm start
+ 2014  clear
+ 2015  npm start
+ 2016  ls
+ 2017  rm -rf node_modules/ && npm install && npm start
+ 2018* ls 
+ 2019  rm -rf node_modules/ && npm install && npm start --verbose
+ 2020  rm -rf node_modules && npm install && npm start --verbose
+ 2021  rm -rf node_modules
+ 2022  clear
+ 2023  ls
+ 2024  npm install && npm start --verbose
+ 2025  cd ..
+ 2026  clear
+ 2027  ls
+ 2028  cd cpp-httplib/
+ 2029  ls
+ 2030  cd ..
+ 2031  cd ram
+ 2032  ls
+ 2033  cd chbackend/
+ 2034  ls
+ 2035  clear
+ 2036  cd git/
+ 2037  cd chatappBackend/
+ 2038  ls
+ 2039  clear
+ 2040  git logs
+ 2041  git log
+ 2042  git log --oneline
+ 2043  git revert c0284eb
+ 2044  git status
+ 2045  git push
+ 2046  git revert a37e9e3
+ 2047  git commit -m ""
+ 2048  git push
+ 2049  clear
+ 2050  git status
+ 2051  git add .
+ 2052  git push origin master
+ 2053  hai>>touch.txt
+ 2054  hai<<touch.txt
+hai
+
+ 2055  history>>touch.txt
